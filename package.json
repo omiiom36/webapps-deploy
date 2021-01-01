@@ -36,5 +36,9 @@
     "azure-actions-appservice-rest": "^1.2.9",
     "azure-actions-utility": "^1.0.3",
     "azure-actions-webclient": "^1.0.11"
+  },
+  "funding": {
+    "type": "opencollective",
+    "url": "https://opencollective.com/<YOUR-COLLECTIVE-SLUG>"
   }
 }
